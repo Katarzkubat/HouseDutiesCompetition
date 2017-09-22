@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#00BCD4</item>
+        <item name="colorPrimaryDark">#212121</item>
+        <item name="colorButtonNormal">#FF5252</item>
+    </style>
+    <style name="textViewPerson" parent="TextAppearance.AppCompat">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">@dimen/paddingTop</item>
+        <item name="android:textSize">@dimen/pointSize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingBottom">@dimen/paddingBottom</item>
+        <item name="android:textColor">@color/textColorSecond</item>
+    </style>
+    <style name="textViewPoint" parent="TextAppearance.AppCompat">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/textViewPoint</item>
+        <item name="android:textColor">@color/textColorSecond</item>
+        <item name="android:paddingBottom">@dimen/paddingBottom</item>
+    </style>
+    <style name="button">
+        <item name="android:layout_marginLeft">@dimen/marginLeft</item>
+        <item name="android:layout_marginRight">@dimen/marginRight</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:layout_marginBottom">@dimen/marginBottom</item>
+    </style>
+    <style name="view">
+        <item name="android:layout_width">@dimen/layoutWidth</item>
+        <item name="android:background">@color/textColorSecond</item>
+        <item name="android:layout_marginBottom">@dimen/layoutMarginBottom</item>
+        <item name="android:layout_marginTop">@dimen/layoutMarginTop</item>
+    </style>
+    <style name="resetButton">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:layout_marginBottom">@dimen/layoutMarginBottomReset</item>
+    </style>
+</resources>
+

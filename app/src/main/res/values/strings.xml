@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">House Duties Competition</string>
+    <string name="first_person">First Person</string>
+    <string name="second_person">Second Person</string>
+    <string name="shopping">Shopping</string>
+    <string name="cleaning">Cleaning</string>
+    <string name="cooking">Cooking</string>
+    <string name="washing">Washing</string>
+    <string name="cat_cuvette">Cat cuvette</string>
+    <string name="repairing">Repairing</string>
+    <string name="loitering">Loitering</string>
+    <string name="start_again">Start Again</string>
+</resources>
